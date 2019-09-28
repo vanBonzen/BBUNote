@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBUNote", "BBUNote\BBUNote.csproj", "{97A5C366-8019-4791-A29D-D1BC5F06AA6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A5C366-8019-4791-A29D-D1BC5F06AA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A5C366-8019-4791-A29D-D1BC5F06AA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A5C366-8019-4791-A29D-D1BC5F06AA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A5C366-8019-4791-A29D-D1BC5F06AA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
